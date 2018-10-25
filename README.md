@@ -14,3 +14,13 @@ Here you can add codeforces solutions according to their problem nos. in respect
 7. Push your code ```git push origin branch_name```
 8. Create a pull request
 9. Wait for it to get merged!
+
+# Covered Solution:
+*000 - 100
+  *4 - Watermelon - http://codeforces.com/problemset/problem/4/A
+  *65 - Way too long words - http://codeforces.com/problemset/problem/71/A
+  *89 - String Task - http://codeforces.com/problemset/problem/118/A
+
+*101 - 200
+  *111 - Twins - http://codeforces.com/problemset/problem/160/A
+  *197 - Helpful maths - http://codeforces.com/problemset/problem/339/A
