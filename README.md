@@ -2,6 +2,8 @@
 Here you can add codeforces solutions according to their problem nos. in respective folders in any language you want.
 (Format/Indent the code properly)
 
+**Name the codefile according to the problem name given on codeforces.**
+
 ## Steps for contributing
 1. Fork the repository
 2. Clone the forked repository ```git clone https://github.com/<username>/Codeforces-Solutions.git```
